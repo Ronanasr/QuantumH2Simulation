@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 - Inspired by quantum computing and chemistry educational resources.
 
 ## Contact
-For questions or contributions, please open an issue on the [GitHub repository](https://github.com/YourUsername/QuantumH2Simulation) or contact [YourEmail@example.com](mailto:YourEmail@example.com).
+For questions or contributions, please open an issue on the [GitHub repository](https://github.com/Ronanasr/QuantumH2Simulation) or contact [ronasr82@gmail.com](mailto:ronasr82@gmail.com).
