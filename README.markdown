@@ -42,7 +42,7 @@ python h2_vqe.py
 ## Results
 - **Bloch Sphere**: Visualizes the initial |0> state, states after Hadamard, Pauli-X, and a rotation gate.
 - **H₂ Energy**: Approximate ground state energy (e.g., ~-1.13 Hartree) with a small deviation from the theoretical value (~-1.137 Hartree).
-
+-![Bloch Sphere](bloch_sphere.png)
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
